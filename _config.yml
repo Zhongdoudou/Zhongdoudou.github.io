@@ -23,13 +23,13 @@ repository               : "Zhongdoudou/Zhongdoudou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhao Liang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "China"
+  employer         : "Hunan Institute of Engineering"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"zhongdou0910@gmail.com" 
 
   # Academic websites
   academia         : # URL
