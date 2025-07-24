@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhao Liang / persinal website"
+title                    : "Zhao Liang Personal Website"
 title_separator          : "-"
 name                     : &name "Zhao Liang"
-description              : &description "a PhD plz"
+description              : &description "a PhD plz (●'◡'●)"
 url                      : https://Zhongdoudou.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zhongdoudou/Zhongdoudou.github.io"
