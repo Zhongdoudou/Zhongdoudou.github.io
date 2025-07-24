@@ -22,11 +22,11 @@ repository               : "Zhongdoudou/Zhongdoudou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Zhao Liang"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "China"
+  location         : "Hunan, China"
   employer         : "Hunan Institute of Engineering"
   uri              : # URL
   email            : "zhongdou0910@gmail.com" 
